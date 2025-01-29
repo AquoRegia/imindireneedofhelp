@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 
-linked_list** lists;
+linked_list**  lists;
 int list_count=0;
 
 
